@@ -2,9 +2,6 @@
 <br>
 <br>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&color=%23089255&size=33&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+CypherpunkSamurai!+%F0%9F%91%8B;Coder+%2F+Software+Developer%2C;Freelancer%2C+Graphics+Designer%2C;and+an+RE+Enthusiast.;When+I'm+not+on+the+linux+terminal....;you'll+find+me+browsing+HN+and+ProductHunt.)](https://git.io/typing-svg)
-
 <!-- Intro Here -->
 <br>
 <br>
@@ -23,7 +20,7 @@
 <hr>
 
 <p>  
-      <a href="https://www.linkedin.com/in/rakeshchow/">
+      <a href="https://www.linkedin.com/in/rajesh-chaudhari-842a11244/">
        <img width="20px" src="img/icons/LinkedIn.svg">
        Linked In
       </a>
@@ -40,15 +37,12 @@
        Gitlab
       </a>
     &nbsp;
-      <a href="http://gitter.im/CypherpunkSamurai">
+      <a href="https://github.com/rajeshchau">
        <img width="14px" src="img/icons/Gitter.svg">
        Gitter
       </a>
     &nbsp;
-      <a href="https://matrix.to/#/@user:CyperpunkSamurai">
-       <img width="14px" src="img/icons/Element.svg">
-       Matrix
-      </a>
+      
 </p>
 
 <!-- Facts Here -->
@@ -96,9 +90,9 @@
 
 <p>
   <h2>Contacts</h2>
-  💬 Ask me <a href="https://github.com/CypherpunkSamurai/CypherpunkSamurai/issues" title="Issues">Here</a>
+  💬 Ask me <a href="https://github.com/rajeshchau/rajeshchau/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: CypherpunkSamurai@protonmail.com">CypherpunkSamurai@protonmail.com</a>
+  📫 How to reach me: <a href="mailto: rc8807928@gmail.com">rc8807928@gmail.com</a>
 </p>
 
 
@@ -130,23 +124,23 @@
 
   <h2>Languages</h2>
     <h3>Preferred</h3>
-      <img src="https://skillicons.dev/icons?i=py,golang,nodejs,js,cs,rust,regex,bash&perline=8" alt="Technologies">
+      <img src="https://skillicons.dev/icons?i=py,golang,nodejs,js,rust,bash&perline=8" alt="Technologies">
     <h3>Known</h3>
-      <img src="https://skillicons.dev/icons?i=java,c,cpp,androidstudio&perline=8" alt="Technologies">
+      <img src="https://skillicons.dev/icons?i=java,c,androidstudio&perline=8" alt="Technologies">
   <br><br>
 
   <h3>Frameworks and Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=linux,react,express,fastapi,bots,selenium,tailwind,bootstrap,flask,docker,nginx,nextjs&perline=6" alt="Technologies">
+    <img src="https://skillicons.dev/icons?i=linux,react,express,fastapi,tailwind,bootstrap,flask,docker,nginx,nextjs&perline=6" alt="Technologies">
   <br><br>  
 
   <h2>Storage</h2>
     <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres&perline=8" alt="Technologies">
   <h2>Cloud Services</h2>
-    <img src="https://skillicons.dev/icons?i=githubactions,heroku,cloudflare,netlify,vercel&perline=8" alt="Technologies">
+    <img src="https://skillicons.dev/icons?i=githubactions,cloudflare,netlify,vercel&perline=8" alt="Technologies">
   <br>
 
   <h2>Toolkit</h2>
-      <img src="https://skillicons.dev/icons?i=vscode,neovim,git,github,gitlab,figma,ps,ai" alt="Tools">
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ai" alt="Tools">
     <br><br>
 
 </div>
