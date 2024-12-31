@@ -150,9 +150,5 @@
 
 
 <div margin="20px">
-  <p>
-    <p>
-      <img src="img/waves_.svg" alt="Waves SVG">
-    </p>
-  </p>
+  
 </div>
