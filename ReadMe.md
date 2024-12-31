@@ -133,9 +133,6 @@
     <img src="https://skillicons.dev/icons?i=githubactions,cloudflare,netlify,vercel&perline=8" alt="Technologies">
   <br>
 
-  <h2>Toolkit</h2>
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ai" alt="Tools">
-    <br><br>
 
 </div>
 
