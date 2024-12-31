@@ -32,17 +32,11 @@
       </a>
     -->
     &nbsp;
-      <a href="https://gitlab.com/CypherpunkSamurai/">
+      <a href="https://github.com/rajeshchau">
        <img width="20px" src="img/icons/GitLab.svg">
        Gitlab
       </a>
-    &nbsp;
-      <a href="https://github.com/rajeshchau">
-       <img width="14px" src="img/icons/Gitter.svg">
-       Gitter
-      </a>
-    &nbsp;
-      
+    &nbsp; 
 </p>
 
 <!-- Facts Here -->
