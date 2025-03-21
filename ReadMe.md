@@ -46,6 +46,11 @@ A smart contract implementation for the DIHIX platform.
 ![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeshchau&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshchau&layout=compact&theme=radical)
 
+## 🏆 Achievements
+
+- **Hackathon Winner**: Secured 1st place in the XYZ Hackathon 2024.
+- **Open Source Contributor**: Contributed to [open-source-project](https://github.com/open-source-project) enhancing its functionality.
+
 ## 📫 Contact Me
 
 I'm always open to connecting with like-minded individuals and exploring new opportunities.
@@ -53,8 +58,6 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 - **LinkedIn**: [rajesh-chaudhari-842a11244](https://www.linkedin.com/in/rajesh-chaudhari-842a11244)
 - **Instagram**: [rajesh_chaudhary_70](https://www.instagram.com/rajesh_chaudhary_70)
 - **Email**: [rajesh@example.com](mailto:rajesh@example.com)
-
-Feel free to reach out!
 
 ---
 
