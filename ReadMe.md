@@ -1,154 +1,61 @@
-<!-- Typing SVG Here -->
-<br>
-<br>
+# Rajesh Chaudhari – Aspiring Computer Software Engineer
 
-<!-- Intro Here -->
-<br>
-<br>
+![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
-<p>
-  <b>
-    Hi, I'm Rajesh chaudhari
-    <img height=30 width=30 src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif">
-    <br>
-    A Computer Software Engineer, in the Making...
-    <br>
-  </b>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajesh--chaudhari--842a11244-blue)](https://www.linkedin.com/in/rajesh-chaudhari-842a11244)
+[![Instagram](https://img.shields.io/badge/Instagram-rajesh__chaudhary__70-purple)](https://www.instagram.com/rajesh_chaudhary_70)
+[![GitHub Followers](https://img.shields.io/github/followers/rajeshchau?style=social)](https://github.com/rajeshchau)
+[![Profile Views](https://komarev.com/ghpvc/?username=rajeshchau&color=blue)](https://github.com/rajeshchau)
 
-<!-- Links Here -->
-<hr>
+## 👨‍💻 About Me
 
-<p>  
-      <a href="https://www.linkedin.com/in/rajesh-chaudhari-842a11244/">
-       <img width="20px" src="img/icons/LinkedIn.svg">
-       Linked In
-      </a>
-  <!--
-    &nbsp;
-      <a href="">
-       <img width="20px" src="img/icons/Discord.svg">
-       Discord
-      </a>
-    -->
-    &nbsp;
-      <a href="https://github.com/rajeshchau">
-       <img width="20px" src="img/icons/GitLab.svg">
-       Gitlab
-      </a>
-    &nbsp; 
-</p>
+Hello! I'm **Rajesh Chaudhari**, a motivated student pursuing both Bachelor's and Master's degrees in Computer Science. I have a deep passion for programming and software development, always eager to learn and take on new challenges.
 
-<!-- Facts Here -->
-<hr>
-<center>
-<img src="https://komarev.com/ghpvc/?username=CypherpunkSamurai&label=People+Who+Viewed+My+Profile" >
-</center>
-<center>
-  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26416%26project%3D%26in=0">
-</center>
-<br>
-<br>
+- 🎓 **Education**: B.Tech 4th Year
+- 💻 **Interests**: Coding, Problem-Solving, Web Development, AI
+- 🌱 **Currently Learning**: Advanced algorithms and blockchain technology
+- 💬 **Ask me about**: Python, JavaScript, Solidity
 
+## 🛠️ Skills
 
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+- **Web Development**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- **Blockchain**: ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-4E4E4E?style=flat&logo=smart-contract&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+## 🚀 Projects
 
-## Here's a Few Facts About Me 😄:
-  🎓 I'm currently studying B.Tech 4rth year.
-  <br>
-    💻 I love writing code to simplify lives for people. (including mine 😄)
-  <br>
-    🌱 I’m a dedicated and fast learner
-  <br>
-    🖌️ I usually Graphics Desgin and UI Design in my free time
-  <br>
-  🐱 I prefer both [cattos and doggo](https://reddit.com/r/aww)
-  <br>
-    😎 I'm secretly a CyberSec Enthusiast `#HackThePlanet`
-  <br>
-    👺 I like japanese culture
-  <br>
-    🔭 My Hobbies include:
-    <ul>
-      <li>Reading books</l1>
-      <li>Exploring the Planet</li>
-      <li>Watching Marvel and Anime</li>
-      <li>Reading Comics and Manga</li>
-      <li>Graphics Design, and Digital Art</li>
-    </ul>
-  <br>
-    😄 I’m happy to colaborate on projects 🤝
+Here are some of the projects I've been working on:
 
-<!-- Contacts Section -->
-<br>
+### [ChatGPT-Interactive](https://github.com/rajeshchau/chatgpt-responsive)
 
-<p>
-  <h2>Contacts</h2>
-  💬 Ask me <a href="https://github.com/rajeshchau/rajeshchau/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: rc8807928@gmail.com">rc8807928@gmail.com</a>
-</p>
+An interactive chatbot application showcasing the capabilities of OpenAI's GPT-3.5 language model.
 
+- **Description**: Engage in natural and dynamic conversations with an AI-powered virtual assistant.
+- **Technologies**: Python, OpenAI GPT-3.5
 
+### [DIHIX Smart Contract](https://github.com/rajeshchau/dihix-smart-contract)
 
+A smart contract implementation for the DIHIX platform.
 
+- **Description**: Development of escrow smart contracts using ERC-20 tokens.
+- **Technologies**: Solidity, Ethereum
 
+## 📊 GitHub Stats
 
+![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeshchau&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshchau&layout=compact&theme=radical)
 
-<!-- Stats -->
-<hr>
-<br>
-<br>
+## 📫 Contact Me
 
+I'm always open to connecting with like-minded individuals and exploring new opportunities.
 
+- **LinkedIn**: [rajesh-chaudhari-842a11244](https://www.linkedin.com/in/rajesh-chaudhari-842a11244)
+- **Instagram**: [rajesh_chaudhary_70](https://www.instagram.com/rajesh_chaudhary_70)
+- **Email**: [rajesh@example.com](mailto:rajesh@example.com)
 
-<!-- Header -->
+Feel free to reach out!
 
-<div align="center">
-    <h2 align="center">Here's My Little Collection of Stats 😄</h2>
-    <b>It's Not Much But It's Honest Work! 😸</b>
-</div>
+---
 
-
-<!-- Coding Stats -->
-<br>
-<br>
-
-<div align="center">
-
-  <h2>Languages</h2>
-    <h3>Preferred</h3>
-      <img src="https://skillicons.dev/icons?i=py,golang,nodejs,js,rust,bash&perline=8" alt="Technologies">
-    <h3>Known</h3>
-      <img src="https://skillicons.dev/icons?i=java,c,androidstudio&perline=8" alt="Technologies">
-  <br><br>
-
-  <h3>Frameworks and Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=linux,react,express,fastapi,tailwind,bootstrap,flask,docker,nginx,nextjs&perline=6" alt="Technologies">
-  <br><br>  
-
-  <h2>Storage</h2>
-    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres&perline=8" alt="Technologies">
-  <h2>Cloud Services</h2>
-    <img src="https://skillicons.dev/icons?i=githubactions,cloudflare,netlify,vercel&perline=8" alt="Technologies">
-  <br>
-
-
-</div>
-
-
-
-<br>
-<br>
-
-<hr>
-
-<!-- End -->
-<br>
-<br>
-
-
-
-<div margin="20px">
-  
-</div>
+*Generated with ❤️ by Rajesh Chaudhari*
