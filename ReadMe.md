@@ -57,7 +57,7 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 
 - **LinkedIn**: [rajesh-chaudhari-842a11244](https://www.linkedin.com/in/rajesh-chaudhari-842a11244)
 - **Instagram**: [rajesh_chaudhary_70](https://www.instagram.com/rajesh_chaudhary_70)
-- **Email**: [rajesh@example.com](mailto:rajesh@example.com)
+- **Email**: [rc8807928@gmail.com](mailto:rc8807928@gmail.com)
 
 ---
 
