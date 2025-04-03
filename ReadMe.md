@@ -14,7 +14,7 @@ Hello! I'm **Rajesh Chaudhari**, a motivated student pursuing both Bachelor's an
 - 🎓 **Education**: Imca 4th Year
 - 💻 **Interests**: Coding, Problem-Solving, Web Development, AI
 - 🌱 **Currently Learning**: Advanced algorithms and blockchain technology
-- 💬 **Ask me about**: Python, JavaScript, Solidity
+- 💬 **Ask me about**: Python, JavaScript, Solidity, yul
 
 ## 🛠️ Skills
 
